@@ -1,0 +1,28 @@
+{
+  "name": "telnetchatserver",
+  "version": "0.0.1",
+  "description": "NodeJS Telnet Chat Server",
+  "author": "Raship Shah <shahraship@gmail.com>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shahraship/telnetchatserver"
+  },
+  "bugs": {
+    "url": "https://github.com/shahraship/telnetchatserver/issues"
+  },
+  "keywords": [
+    "nodejs telnet chat server"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "preferGlobal": false,
+  "private": true,
+  "analyze": true,
+  "license": "MIT"
+}
